@@ -1,0 +1,4 @@
+[08-Jul-2019 06:57:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/barunag2/public_html/admin/user/edit_user.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/barunag2/public_html/admin/user/edit_user.php on line 42
